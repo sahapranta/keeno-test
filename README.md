@@ -16,6 +16,14 @@
 
 Along with Laravel Default Auth Routes.
 
+Hey! I have written 4 Test Case to check if  
+- login and Registration are working
+- Products & Products View routes are working
+
+So, Run test 
+- `php artisan test` or
+- `vendor\bin\phpunit`
+
 ## Frontend
 
 - Laravel Default Bootstrap, jQuery, Vue.js
