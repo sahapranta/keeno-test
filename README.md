@@ -1,7 +1,7 @@
 # Keeno Test
-[![](assets/badge.license.svg)](https://opensource.org/licenses/MIT)
-[![](assets/badge.style.svg)](https://prettier.io/)
----
+[![](resources/badge/badge.license.svg)](https://opensource.org/licenses/MIT)
+[![](resources/badge/badge.style.svg)](https://prettier.io/)
+
 ### Run Project
 - run `composer install`
 - run `php artisan migrate --seed`
